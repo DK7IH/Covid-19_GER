@@ -1,7 +1,7 @@
 //Summing up Covid-19 new infections and grouping
 //them by week
 //Peter Baier 2020
-//Last change 20202-09-09
+//Last change 2020-09-09
 
 #include <stdio.h>
 
